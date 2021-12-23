@@ -44,7 +44,7 @@ Project created by <a href="https://github.com/KINGS-AS">KINGS-AS</a> to make it
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/KINGS-AS/RDX.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/SPIRIT-SER/SPIRIT-SER-BOT.git)
      </div>
 <br>
 <br >
