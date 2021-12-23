@@ -1,9 +1,9 @@
 {
-    "name": "OXYMORON",
-    "description": "OXYMORON - Whatsapp Bot",
-    "logo": "https://i.imgur.com/ee5xPd3.jpeg",
+    "name": "SPIRIT-SER",
+    "description": "SPIRIT-SER-BOT - Whatsapp Bot",
+    "logo": "https://i.imgur.com/BC4cuc4.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/KINGS-AS/OXYMORON",
+    "repository": "https://github.com/SPIRIT-SER/SPIRIT-SER-BOT",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
