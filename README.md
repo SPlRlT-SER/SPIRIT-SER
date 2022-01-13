@@ -1,16 +1,16 @@
 <div align="center">
 
-[![KINGS-AS](https://github.com/KINGS-AS.png?size=100000)](https://github.com/KINGS-AS)
+[![SPIRIT-SER](https://i.imgur.com/nfnRPce.jpg?size=100000)](https://github.com/SPlRlT-SER)
 
-## [![RDX](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+RDX+WA+Bot+repo;Created+by+ABHIRAM+SACHU;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![SPIRIT-SER](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+SPIRIT+SER+WA+Bot+repo;Created+by+SPIRIT;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
 
   <p align="center">
-<a href="https://github.com/KINGS-AS"><img title="Author" src="https://img.shields.io/badge/Author-KINGS-AS/RDX?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/SPlRlT-SER"><img title="Author" src="https://img.shields.io/badge/Author-SPIRIT-SER/spirit?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/KINGS-AS">KINGS-AS</a> to make it public
+Project created by <a href="https://github.com/SPlRlT-SER">SPlRlT-SER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -31,9 +31,9 @@ Project created by <a href="https://github.com/KINGS-AS">KINGS-AS</a> to make it
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KINGS-AS&show_icons=true&theme=dark&locale=en" alt="KINGS-AS" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SPlRlT-SER&show_icons=true&theme=dark&locale=en" alt="SPlRlT-SER" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KINGS-AS&theme=dark" alt="KINGS-AS" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SPlRlT-SER&theme=dark" alt="SPlRlT-SER" /></p>
 </p>
 
 
@@ -60,8 +60,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/KINGS-AS/RDX
-$ cd RDX
+$ git clone https://github.com/SPlRlT-SER/SPIRIT-SER
+$ cd SPIRIT-SER
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -70,8 +70,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/KINGS-AS/RDX
-$ cd RDX
+$ git clone https://github.com/SPlRlT-SER/SPIRIT-SER
+$ cd SPIRIT-SER
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -84,16 +84,16 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, RDX executives do not accept responsibility.
-By establishing the RDX, you are deemed to have accepted these responsibilities.
+Absolutely, SPIRIT-SER executives do not accept responsibility.
+By establishing the SPIRIT-SER, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
   <div align="center">
     
-  [![KINGS-AS](https://github.com/KINGS-AS.png?size=100)](https://github.com/KINGS-AS) | [![KINGS-AS](https://github.com/KINGS-AS.png?size=100)](https://github.com/KINGS-AS) | [![KINGS-AS](https://github.com/KINGS-AS.png?size=100)](https://github.com/KINGS-AS) 
+  [![SPlRlT-SER](https://github.com/SPlRlT-SER.png?size=100)](https://github.com/SPlRlT-SER) | [![SPlRlT-SER](https://github.com/SPlRlT-SER.png?size=100)](https://github.com/SPlRlT-SER) | [![SPlRlT-SER](https://github.com/SPlRlT-SER.png?size=100)](https://github.com/SPlRlT-SER) 
 ----|----|----
-[Abhiram Sachu](https://github.com/KINGS-AS) | [Abhiram Sachu](https://github.com/KINGS-AS) | [Abhiram Sachu](https://github.com/KINGS-AS)
+[SPIRIT SER](https://github.com/SPlRlT-SER) | [SPIRIT SER](https://github.com/SPlRlT-SER) | [SPIRIT SER](https://github.com/SPlRlT-SER)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
